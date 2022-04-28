@@ -9,6 +9,7 @@ Image Gallery is our first project "walkthrough".
     3. Images
     4. Flexbox website layout
     5. Responsive UI (User Interface)
+    6. Intellectual Property & Copyright
     
 [A Complete Guide to Flexbox - CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
@@ -26,6 +27,13 @@ Image Gallery is our first project "walkthrough".
 [Support Tables for HTML5, CSS3, etc](https://caniuse.com)
 
 [CSS Transitions and Transforms for Beginners](https://thoughtbot.com/blog/transitions-and-transforms)
+
+
+### Intellectual Property & Copyright
+[Copyright & Creativity For Ethical Digital Citizens](https://copyrightandcreativity.org/high-school/)
+[Creators and Consumers of Media Online - video](https://youtu.be/GPNWvU_IphU)
+[Copyright in the Real World - video](https://youtu.be/ITASCSxnBqw)
+[Wanna Work Together:  Creative Commons - video](https://youtu.be/wC-m23T7cPM)
 
 
 ### Advance your Learning
