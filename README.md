@@ -45,6 +45,8 @@ Image Gallery is our first project "walkthrough".
 ### Intellectual Property & Copyright
 [Copyright & Creativity For Ethical Digital Citizens](https://copyrightandcreativity.org/high-school/)
 
+[Using Copyrighted Works in Our Own Creations - Fair Use, Creative Commons, Permissions](https://youtu.be/1R5QccMTDMs)
+
 [Creators and Consumers of Media Online - video](https://youtu.be/GPNWvU_IphU)
 
 [Copyright in the Real World - video](https://youtu.be/ITASCSxnBqw)
