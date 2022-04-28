@@ -11,11 +11,23 @@ Image Gallery is our first project "walkthrough".
     5. Responsive UI (User Interface)
     6. Intellectual Property & Copyright
     
+    
+## Main two resources (equivalent to a course textbook):
+
+[W3 Schools](https://https://www.w3schools.com/)
+
+[Mozilla Developer Network](https://https://developer.mozilla.org/en-US/)
+
+
+
+## Additional project resources
+    
 [A Complete Guide to Flexbox - CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 [Play Flexbox Froggy!](https://flexboxfroggy.com)
 
 [Flexbox Cheatsheet - Darek Kay](https://darekkay.com/flexbox-cheatsheet/)
+
 
 
 ### CSS 3 New Features examples:
@@ -27,6 +39,7 @@ Image Gallery is our first project "walkthrough".
 [Support Tables for HTML5, CSS3, etc](https://caniuse.com)
 
 [CSS Transitions and Transforms for Beginners](https://thoughtbot.com/blog/transitions-and-transforms)
+
 
 
 ### Intellectual Property & Copyright
