@@ -45,11 +45,11 @@ Image Gallery is our first project "walkthrough".
 ### Intellectual Property & Copyright
 [Copyright & Creativity For Ethical Digital Citizens](https://copyrightandcreativity.org/high-school/)
 
+[Creators and Consumers of Media Online - video](https://youtu.be/GPNWvU_IphU)
+
 [What is Copyright Infringement, and Why Does it Matter? - video](https://youtu.be/-tO6tJBCXp4)
 
 [Using Copyrighted Works in Our Own Creations - Fair Use, Creative Commons, Permissions - video](https://youtu.be/1R5QccMTDMs)
-
-[Creators and Consumers of Media Online - video](https://youtu.be/GPNWvU_IphU)
 
 [Copyright in the Real World - video](https://youtu.be/ITASCSxnBqw)
 
