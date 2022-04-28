@@ -45,7 +45,9 @@ Image Gallery is our first project "walkthrough".
 ### Intellectual Property & Copyright
 [Copyright & Creativity For Ethical Digital Citizens](https://copyrightandcreativity.org/high-school/)
 
-[Using Copyrighted Works in Our Own Creations - Fair Use, Creative Commons, Permissions](https://youtu.be/1R5QccMTDMs)
+[What is Copyright Infringement, and Why Does it Matter? - video](https://youtu.be/-tO6tJBCXp4)
+
+[Using Copyrighted Works in Our Own Creations - Fair Use, Creative Commons, Permissions - video](https://youtu.be/1R5QccMTDMs)
 
 [Creators and Consumers of Media Online - video](https://youtu.be/GPNWvU_IphU)
 
