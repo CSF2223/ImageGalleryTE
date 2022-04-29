@@ -37,8 +37,7 @@ Image Gallery is our first project "walkthrough".
 
 
 
-
-### Intellectual Property & Copyright
+## Intellectual Property & Copyright
 [Copyright & Creativity For Ethical Digital Citizens](https://copyrightandcreativity.org/high-school/)
 
 [Creators and Consumers of Media Online - video](https://youtu.be/GPNWvU_IphU)
@@ -52,7 +51,8 @@ Image Gallery is our first project "walkthrough".
 [Wanna Work Together:  Creative Commons - video](https://youtu.be/wC-m23T7cPM)
 
 
-### Advance your Learning
+
+## Advance your Learning
 [Introduction to Basic CSS - freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/)
 
 ### CSS 3 New Features examples:
