@@ -31,9 +31,9 @@ Image Gallery is our first project "walkthrough".
     
 [A Complete Guide to Flexbox - CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
-[Play Flexbox Froggy!](https://flexboxfroggy.com)
-
 [Flexbox Cheatsheet - Darek Kay](https://darekkay.com/flexbox-cheatsheet/)
+
+[Play Flexbox Froggy!](https://flexboxfroggy.com)
 
 
 
