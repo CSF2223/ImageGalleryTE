@@ -60,8 +60,8 @@ Image Gallery is our first project "walkthrough".
 [Introduction to Basic CSS - freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/)
 
 #### CSS 3 New Features examples:
-     - transition
-     - transform
+* transition
+* transform
     
 [W3 Schools Browser Support Reference](https://www.w3schools.com/cssref/css3_browsersupport.asp)
     
