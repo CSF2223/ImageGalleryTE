@@ -37,17 +37,6 @@ Image Gallery is our first project "walkthrough".
 
 
 
-### CSS 3 New Features examples:
-     - transition
-     - transform
-    
-[W3 Schools Browser Support Reference](https://www.w3schools.com/cssref/css3_browsersupport.asp)
-    
-[Support Tables for HTML5, CSS3, etc](https://caniuse.com)
-
-[CSS Transitions and Transforms for Beginners](https://thoughtbot.com/blog/transitions-and-transforms)
-
-
 
 ### Intellectual Property & Copyright
 [Copyright & Creativity For Ethical Digital Citizens](https://copyrightandcreativity.org/high-school/)
@@ -65,3 +54,13 @@ Image Gallery is our first project "walkthrough".
 
 ### Advance your Learning
 [Introduction to Basic CSS - freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/)
+
+### CSS 3 New Features examples:
+     - transition
+     - transform
+    
+[W3 Schools Browser Support Reference](https://www.w3schools.com/cssref/css3_browsersupport.asp)
+    
+[Support Tables for HTML5, CSS3, etc](https://caniuse.com)
+
+[CSS Transitions and Transforms for Beginners](https://thoughtbot.com/blog/transitions-and-transforms)
