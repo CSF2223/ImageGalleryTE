@@ -2,7 +2,7 @@
 Q1 Project 1 - Image Gallery TE
 
 <hr>
-*All project work/edits must be done in your AWS Cloud9 IDE (Integrated Development Envoronment). NEVER write directly to your GitHub Repositories!*
+<em>All project work/edits must be done in your AWS Cloud9 IDE (Integrated Development Envoronment). NEVER write directly to your GitHub Repositories!</em>
 <hr>
 
 Image Gallery is our first project "walkthrough".
