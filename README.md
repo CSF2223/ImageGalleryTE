@@ -7,9 +7,10 @@ Image Gallery is our first project "walkthrough".
     1. Basic HTML tags and their structure
     2. Intro to CSS styles and their structure
     3. Images
-    4. Flexbox website layout
-    5. Responsive UI (User Interface)
-    6. Intellectual Property & Copyright
+    4. CSS Box Model
+    5. CSS Flexbox website layout
+    6. Responsive UI (User Interface)
+    7. Intellectual Property & Copyright
     
     
 ## Main two resources (equivalent to a course textbook):
@@ -21,6 +22,12 @@ Image Gallery is our first project "walkthrough".
 
 
 ## Additional project resources
+
+[Google Fonts](https://fonts.google.com/)
+
+[Color Hunt - Color palettes for designers and artists](https://colorhunt.co/)
+
+[CSS Box Model - W3 Schools](https://www.w3schools.com/css/css_boxmodel.asp)
     
 [A Complete Guide to Flexbox - CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
