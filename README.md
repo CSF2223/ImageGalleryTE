@@ -1,8 +1,8 @@
 # ImageGalleryTE
 Q1 Project 1 - Image Gallery TE
 
-*** All project edits must be done in your AWS Cloud9 IDE (integrated Development Envoronment).
-    NEVER write directly to your GitHub Repositories! ***
+*All project work/edits must be done in your AWS Cloud9 IDE (integrated Development Envoronment).
+**NEVER** write directly to your GitHub Repositories!*
 
 Image Gallery is our first project "walkthrough".
 
@@ -24,7 +24,7 @@ Image Gallery is our first project "walkthrough".
 
 
 
-## Additional project resources
+### Additional project resources
 
 [Google Fonts](https://fonts.google.com/)
 
@@ -40,7 +40,7 @@ Image Gallery is our first project "walkthrough".
 
 
 
-## Intellectual Property & Copyright
+### Intellectual Property & Copyright
 [Copyright & Creativity For Ethical Digital Citizens](https://copyrightandcreativity.org/high-school/)
 
 [Creators and Consumers of Media Online - video](https://youtu.be/GPNWvU_IphU)
@@ -55,10 +55,10 @@ Image Gallery is our first project "walkthrough".
 
 
 
-## Advance your Learning
+### Advance your Learning
 [Introduction to Basic CSS - freeCodeCamp](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/)
 
-### CSS 3 New Features examples:
+#### CSS 3 New Features examples:
      - transition
      - transform
     
