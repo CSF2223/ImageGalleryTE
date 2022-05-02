@@ -23,11 +23,11 @@ body {
 header {
     letter-spacing: 0.8rem;
     text-align: center;
-    border-bottom: 2px solid #826F66;
-    border-right: 2px solid #826F66;
-    border-left: 2px solid #826F66;
+    border-bottom: 1px solid #826F66;
+    border-right: 1px solid #826F66;
+    border-left: 1px solid #826F66;
     margin: 2rem;
-    padding: 1rem;
+    padding: 0.5rem;
     box-shadow: 4px 4px 5px rgba(0, 0, 0, 0.4);
     text-transform: uppercase;
 }
@@ -39,7 +39,7 @@ header {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin: 6rem 3rem;
+    margin: 7rem 4rem;
     transition: all 1s;
 }
 
@@ -66,15 +66,20 @@ header {
     color: #C69B7B;
     background: transparent;
     text-align: center;
-    font-size: 1.8rem;
-    padding: 1rem 2rem;
+    font-size: 1.5rem;
+    padding: 1rem;
     border-radius: 30px;
-    margin-top: 1rem;
+    margin-top: 2rem;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 
 @media (min-width: 768px){
+    
+    header {
+        font-size: 1.6rem;
+    }
+    
     .gallery{
         display: flex;
         flex-direction: row;
@@ -82,7 +87,11 @@ header {
         flex-wrap: wrap;
     }
     
+    .cardText {
+        font-size: 1.8rem;
+    }
+    
     .imageCard{
-        width: 28%;
+        max-width: 28%;
     }
 }
