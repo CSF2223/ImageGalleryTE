@@ -32,6 +32,14 @@ header {
     text-transform: uppercase;
 }
 
+cite {
+    font-size: 2rem;
+}
+
+p {
+    font-size: 1.2rem;
+}
+
 
 .imageCard {
     color: #000;
@@ -66,7 +74,6 @@ header {
     color: #C69B7B;
     background: transparent;
     text-align: center;
-    font-size: 1.5rem;
     padding: 1rem;
     border-radius: 30px;
     margin-top: 2rem;
@@ -85,10 +92,6 @@ header {
         flex-direction: row;
         justify-content: space-evenly;
         flex-wrap: wrap;
-    }
-    
-    .cardText {
-        font-size: 1.8rem;
     }
     
     .imageCard{
