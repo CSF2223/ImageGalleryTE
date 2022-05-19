@@ -27,6 +27,14 @@ Image Gallery is our first project "walkthrough".
 
 ### Additional project resources
 
+[Pixabay - stunning free images](https://pixabay.com/)
+
+[Photos For Class](https://www.photosforclass.com/)
+
+[Pics4Learning](https://www.pics4learning.com/)
+
+[Public Domain Pictures](https://publicdomainpictures.net/en/)
+
 [Google Fonts](https://fonts.google.com/)
 
 [Color Hunt - Color palettes for designers and artists](https://colorhunt.co/)
