@@ -1,4 +1,6 @@
-# Project Specifications
+# PROJECT SPECIFICATIONS
+
+## General Specifications
  - The primary specification for a “walkthrough” is that all facets of the tutorial(s) - classroom and video - are followed in detail.  Including:
  - HTML tags and their structure
      - All applicable [HTML Layout Elements](https://www.w3schools.com/html/html_layout.asp) are utilized appropriately and as demonstrated in the tutorial(s).
@@ -11,11 +13,18 @@
      - All applicable [Responsive Web Design](https://www.w3schools.com/html/html_responsive.asp) techniques are are utilized appropriately and as demonstrated in the tutorial(s).
 
 
-
-# Project Management Specifications
+## Administrative Specifications
  - Your project folder must reside directly off the root directory of your AWS IDE
- - This repo must be cloned to, and all work done on, your AWS Cloud9 IDE
+ - This repo must be cloned to, and all work done on your AWS Cloud9 IDE
  - Your work should be recorded with frequent git commits including clear and appropriate descriptive messages
  - Your work should be frequently pushed to your remote GitHub Repo
  - Once completed your final commit message must say "Submit for Grading"
+
+
+## Time and Classroom Management
+ - This project is meant to be completed during scheduled class time only - working "bell to bell"
+ - Classroom time is utlized and maximized solely for this project without any unrelated distractions (phone as an example)
+ - Technically, development is NEVER complete.  If you find yourself "finished" continue looking for enhancements to your project meet the "bell to bell" requirement
+ - Work done outside of class should be done only on a minimal, as needed basis (class absence as an example)
+ - Instructor assistance is sought when appropriate to avoid overextending time
 
