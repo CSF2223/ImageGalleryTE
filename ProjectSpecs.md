@@ -8,3 +8,5 @@
      - All [HTML Comments](https://www.w3schools.com/html/html_comments.asp) are used to highlight key structure divisions and tag closings to better organize your code and make it more readable to you and others.
  - CSS styles and their structure
      - All applicable [CSS Syntax](https://www.w3schools.com/css/css_syntax.asp) are utilized appropriately and as demonstrated in the tutorial(s).
+     - All applicable [Responsive Web Design](https://www.w3schools.com/html/html_responsive.asp) techniques are are utilized appropriately and as
+     -      demonstrated in the tutorial(s).
