@@ -1,4 +1,4 @@
-# PROJECT SPECIFICATIONS
+# PROJECT SPECIFICATIONS and RUBRIC
 
 ## General Specifications
  - The primary specification for a “walkthrough” is that all facets of the tutorial(s) - classroom and video - are followed in detail.  Including:
@@ -10,7 +10,7 @@
      - All [HTML Comments](https://www.w3schools.com/html/html_comments.asp) are used to highlight key structure divisions and tag closings to better organize your code and make it more readable to you and others.
  - CSS styles and their structure
      - All applicable [CSS Syntax](https://www.w3schools.com/css/css_syntax.asp) are utilized appropriately and as demonstrated in the tutorial(s).
-     - All applicable [Responsive Web Design](https://www.w3schools.com/html/html_responsive.asp) techniques are are utilized appropriately and as demonstrated in the tutorial(s).
+     - All applicable [Responsive Web Design](https://www.w3schools.com/html/html_responsive.asp) techniques are utilized appropriately and as demonstrated in the tutorial(s).
 
 
 ## Administrative Specifications
@@ -24,7 +24,18 @@
 ## Time and Classroom Management
  - This project is meant to be completed during scheduled class time only - working "bell to bell"
  - Classroom time is utlized and maximized solely for this project without any unrelated distractions (phone as an example)
- - Technically, development is NEVER complete.  If you find yourself "finished" continue looking for enhancements to your project to meet the "bell to bell" requirement
+ - Technically, development is NEVER complete.  If you find yourself "finished", continue looking for enhancements to your project to meet the "bell to bell" requirement
  - Work done outside of class should be done only on a minimal, as needed basis (class absence as an example)
  - Instructor assistance is sought when appropriate to avoid overextending time
 
+
+
+## Project Rubric
+
+| Criteria                          |     | Exceptional  | Acceptable    | Developing   | Needs Improvement |
+| :----:                            |     |     :----:   |   :----:      |    :----:    |       :----:      |
+| General Specifications            |     | 50           | 40            | 30           |  20               |    
+| Administrative Specifications     |     | 20           | 16            | 12           |   8               |
+| Classroom and Time Management     |     | 15           | 12            |  9           |   6               |
+| Administrative Specifications     |     | 15           | 12            |  9           |   6               |
+| TOTAL                             |     | 100          |               |              |                   |
