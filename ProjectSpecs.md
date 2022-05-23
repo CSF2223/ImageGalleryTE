@@ -36,6 +36,6 @@
 | :------------------------------:  | :--:| :----------: | :-----------: | :----------: | :---------------: |
 | General Specifications            |     | 50           | 40            | 30           |  20               |    
 | Administrative Specifications     |     | 20           | 16            | 12           |   8               |
-| Classroom and Time Management     |     | 15           | 12            |  9           |   6               |
+| Tima and Classroom Management     |     | 15           | 12            |  9           |   6               |
 | Administrative Specifications     |     | 15           | 12            |  9           |   6               |
 | TOTAL                             |     | 100          |
